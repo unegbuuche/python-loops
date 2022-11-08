@@ -17,3 +17,4 @@ print('')
 print('')
 print('')
 print(f"Since it cost him 5GHC per customer then he acquired                    {int((25/100*capital) / 5)} customers")
+
